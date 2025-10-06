@@ -1,0 +1,11 @@
+Farmers / Buyers / Logistics → AgroMate Mobile & Web App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> Database (MongoDB Atlas / ReinHost Cloud)
+│
+│──> Storage (AWS S3 for images and documents)
+│
+│──> Payment Gateway (Paystack / Flutterwave)
+│
+└──> Notifications (Firebase / Twilio / SMTP)
