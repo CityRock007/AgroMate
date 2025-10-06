@@ -1,0 +1,41 @@
+/lib
+  main.dart
+  /screens
+    login_screen.dart
+    farmer_dashboard.dart
+    buyer_marketplace.dart
+    product_details_screen.dart
+    logistics_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    auth_service.dart
+    payment_service.dart
+    notification_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    products.js
+    orders.js
+    logistics.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    aws.js
+    paystack.js
+
+/assets
+  /images
+  /icons
+  /mock_data
+
+/docs
+  api_endpoints.md
+  system_architecture.png
+  feature_list.md
